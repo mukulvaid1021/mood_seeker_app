@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819420359302",
+    "project_id": "fire-setup-f2a80",
+    "storage_bucket": "fire-setup-f2a80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819420359302:android:3e5d748c61709d2249ff07",
+        "android_client_info": {
+          "package_name": "com.example.mood_seeker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgLkuICYPe4nOtmBCRFHTbajHZwnF-1WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
